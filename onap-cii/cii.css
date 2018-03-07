@@ -1,0 +1,55 @@
+table, th, td {
+    border-collapse: collapse;
+    border: solid black 1px;
+}
+.top {
+    float: top;
+}
+.texttop {
+    text-align: top;
+}
+.right {
+    float: right;
+}
+.textright {
+    text-align: right;
+}
+.textleft {
+    text-align: textleft;
+}
+.center {
+    text-align: center;
+}
+.improving {
+    background-color: lime;
+}
+.worsening {
+    background-color: pink;
+}
+.small {
+    font-size: small;
+}
+
+.historicText, .historicData {
+    background-color: #cbcbcb;
+}
+
+/* https://stackoverflow.com/questions/21458162/creating-watermark-using-html-and-css */
+.watermark {
+    position: fixed;
+    top: 0; /* or whatever */
+    left: 0; /* or whatever, position according to taste */
+    opacity: 0.5;
+    z-index: 99;
+    font-size: 300px;
+    color: orange;
+}
+
+.demoonly, .hidden {
+    display: none;
+}
+
+.greenButton {
+    background-color: green;
+    color: white;
+}
