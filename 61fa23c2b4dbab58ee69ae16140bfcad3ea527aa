@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b3c4fbec_8ef7d619",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 5047
+      },
+      "writtenOn": "2020-06-18T08:22:13Z",
+      "side": 1,
+      "message": "Aren\u0027t these for python3?",
+      "range": {
+        "startLine": 3,
+        "startChar": 4,
+        "endLine": 4,
+        "endChar": 28
+      },
+      "revId": "61fa23c2b4dbab58ee69ae16140bfcad3ea527aa",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2ae45657_6141408a",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 5047
+      },
+      "writtenOn": "2020-06-18T08:22:13Z",
+      "side": 1,
+      "message": "Aren\u0027t these for Docker?",
+      "range": {
+        "startLine": 9,
+        "startChar": 4,
+        "endLine": 10,
+        "endChar": 28
+      },
+      "revId": "61fa23c2b4dbab58ee69ae16140bfcad3ea527aa",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
