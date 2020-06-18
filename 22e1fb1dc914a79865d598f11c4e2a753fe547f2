@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "65e38fa0_ea4488c1",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 5047
+      },
+      "writtenOn": "2020-06-18T08:56:07Z",
+      "side": 1,
+      "message": "Will it be interpreted as float when parsed? (I\u0027m not fluent in YAML)\n\n(6 more occurrences in this file)",
+      "range": {
+        "startLine": 16,
+        "startChar": 25,
+        "endLine": 16,
+        "endChar": 29
+      },
+      "revId": "22e1fb1dc914a79865d598f11c4e2a753fe547f2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9576bf30_a3f3b875",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 5047
+      },
+      "writtenOn": "2020-06-18T08:56:07Z",
+      "side": 1,
+      "message": "Quoting strings was dropped from all notes but this one - how is it different from others?",
+      "range": {
+        "startLine": 94,
+        "startChar": 11,
+        "endLine": 94,
+        "endChar": 23
+      },
+      "revId": "22e1fb1dc914a79865d598f11c4e2a753fe547f2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
