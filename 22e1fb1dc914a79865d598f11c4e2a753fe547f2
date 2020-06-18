@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "37fc229e_e594b833",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 5097
+      },
+      "writtenOn": "2020-06-18T09:06:07Z",
+      "side": 1,
+      "message": "Float:\n\n\u003e\u003e\u003e with open(\u0027recommended_versions.yaml\u0027, \u0027r\u0027) as f:\n...  yml \u003d f.read()\n\u003e\u003e\u003e type(yaml.load(yml)[\u0027Kubernetes\u0027][\u0027recommended_version\u0027])\n\u003cclass \u0027float\u0027\u003e\n\nI guess it could be put in quotes but this really depends on the tool that is reading this file - if it does type casting itself then this is not an issue.",
+      "parentUuid": "65e38fa0_ea4488c1",
+      "range": {
+        "startLine": 16,
+        "startChar": 25,
+        "endLine": 16,
+        "endChar": 29
+      },
+      "revId": "22e1fb1dc914a79865d598f11c4e2a753fe547f2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "9576bf30_a3f3b875",
         "filename": "recommended_versions.yaml",
         "patchSetId": 2
