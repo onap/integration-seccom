@@ -1,13 +1,13 @@
 ---
 java11:
     recommended_version: Java SE 11.0.6
-    release_date: 2019-01-14
+    release_date: 2020-01-14
     notes: >
       Based on the Java 11 release history, there will likely be  new releases
       in April, July and November.
 python3:
-    recommended_version: 3.8.3
-    release_date: 2020-03-10
+    recommended_version: 3.8.2
+    release_date: 2019-10-14
     notes: Next release is planned for 2020-10-05
 Docker:
     recommended_version: 19.03.8
