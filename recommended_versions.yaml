@@ -1,0 +1,106 @@
+---
+# This file deals with the SECCOM recommended versions of various components
+# See SECCOM wiki for further details (release date, notes)
+java11:
+    recommended_versions:
+        - 11.0.6
+python3:
+    recommended_versions:
+        - 3.8.3
+Docker:
+    recommended_versions:
+        - 19.03.8
+Kubernetes:
+    recommended_versions:
+        - 1.17
+Ubuntu:
+    recommended_versions:
+        - 18.04
+Debian:
+    recommended_versions:
+        - 10
+Alpine:
+    recommended_versions:
+        - 3.11.5
+CentOS:
+    recommended_versions:
+        - 8
+OpenSSL:
+    recommended_versions:
+        - 1.1.1g
+OpenSSH:
+    recommended_versions:
+        - 8.2
+Cassandra:
+    recommended_versions:
+        - 3.11.6
+MongoDB:
+    recommended_versions:
+        - 4.2.2
+MariaDB:
+    recommended_versions:
+        - 10.4.12
+Postgresql:
+    recommended_versions:
+        - 12.2
+Camunda:
+    recommended_versions:
+        - 7.12.0
+OpenDayLight:
+    recommended_versions:
+        - Sodium-SR2
+Kafka:
+    recommended_versions:
+        - 2.4.1
+etcd:
+    recommended_versions:
+        - v3.4.7
+redis:
+    recommended_versions:
+        - 6.0.0
+Elasticsearch:
+    recommended_versions:
+        - 7.6.2
+consul:
+    recommended_versions:
+        - 1.6.5
+        - 1.7.2
+vault:
+    recommended_versions:
+        - 1.4.1
+        - 1.3.5
+haproxy:
+    recommended_versions:
+        - 2.0
+nifi-registry:
+    recommended_versions:
+        - 1.11.4
+filebeat:
+    recommended_versions:
+        - 7.6.2
+nginx:
+    recommended_versions:
+        - 1.18.0
+        - 1.17.10
+nexus:
+    recommended_versions:
+        - 3.23.0
+zookeeper:
+    recommended_versions:
+        - 3.6.1
+memcached:
+    recommended_versions:
+        - 1.6.5
+netbox:
+    recommended_versions:
+        - 2.8.1
+awx:
+    recommended_versions:
+        - 11.2.0
+ejbca:
+    recommended_versions:
+        - 6.15.2.6
+rabbitmq:
+    recommended_versions:
+        - 3.7.25
+        - 3.8.3
