@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "c56898b8_fa871a4e",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2020-06-18T09:24:48Z",
+      "side": 1,
+      "message": "I gave a try with pyyaml\n\n\u003e\u003e\u003e import yaml\n\u003e\u003e\u003e with open(\u0027recommended_versions.yaml\u0027) as f:\n    \n    data \u003d yaml.load(f, Loader\u003dyaml.FullLoader)\n    print(data)\n \n{\u0027java11\u0027: {\u0027recommended_version\u0027: \u0027Java SE 11.0.6\u0027, \u0027release_date\u0027: datetime.date(2020, 1, 14), \u0027notes\u0027: \u0027Based on the Java 11 release history, there will likely be  new releases in April, July and November.\\n\u0027}, \u0027python3\u0027: {\u0027recommended_version\u0027: \u00273.8.3\u0027, \u0027release_date\u0027: datetime.date(2019, 10, 14), \u0027notes\u0027: \u0027Next release is planned for 2020-10-05\u0027}, \u0027Docker\u0027: {\u0027recommended_version\u0027: \u002719.03.8\u0027, \u0027release_date\u0027: datetime.date(2020, 3, 10)}, \u0027Kubernetes\u0027: {\u0027recommended_version\u0027: 1.17, \u0027release_date\u0027: datetime.date(2019, 12, 9), \u0027notes\u0027: \u00271.18.0-rc.1 was released on 2020-03-17. If it is stable within the next month, I recommend using 1.18 for Guilin.\\n\u0027}, \u0027Ubuntu\u0027: {\u0027recommended_version\u0027: 18.04, \u0027release_date\u0027: datetime.date(2018, 4, 26)}, \u0027Debian\u0027: {\u0027recommended_version\u0027: 10, \u0027release_date\u0027: datetime.date(2019, 7, 6)}, \u0027Alpine\u0027: {\u0027recommended_version\u0027: \u00273.11.5\u0027, \u0027release_date\u0027: datetime.date(2019, 12, 19)}, \u0027CentOS\u0027: {\u0027recommended_version\u0027: 8, \u0027release_date\u0027: datetime.date(2019, 9, 24)}, \u0027OpenSSL\u0027: {\u0027recommended_version\u0027: \u00271.1.1g\u0027, \u0027release_date\u0027: datetime.date(2020, 4, 21), \u0027notes\u0027: \u0027ONAP acceptable cipher configuration TBD.\u0027}, \u0027OpenSSH\u0027: {\u0027recommended_version\u0027: 8.2, \u0027release_date\u0027: datetime.date(2020, 2, 14), \u0027notes\u0027: \u0027ONAP acceptable cipher configuration TBD.\u0027}, \u0027Cassandra\u0027: {\u0027recommended_version\u0027: \u00273.11.6\u0027, \u0027release_date\u0027: datetime.date(2020, 2, 14)}, \u0027MongoDB\u0027: {\u0027recommended_version\u0027: \u00274.2.2\u0027, \u0027release_date\u0027: datetime.date(2019, 12, 9)}, \u0027MariaDB\u0027: {\u0027recommended_version\u0027: \u002710.4.12\u0027, \u0027release_date\u0027: datetime.date(2020, 1, 28), \u0027notes\u0027: \u0027Preview version of 10.5.1 became available on 2020-02-14\u0027}, \u0027Postgresql\u0027: {\u0027recommended_version\u0027: 12.2, \u0027release_date\u0027: datetime.date(2020, 2, 13), \u0027notes\u0027: \u002711.7 was released on 2020-02-13 and Postgresql 11 will remain supported until 2023-11-09\\n\u0027}, \u0027Camunda\u0027: {\u0027recommended_version\u0027: \u00277.12.0\u0027, \u0027release_date\u0027: datetime.date(2019, 11, 20)}, \u0027OpenDayLight\u0027: {\u0027recommended_version\u0027: \u0027Sodium-SR2\u0027, \u0027release_date\u0027: datetime.date(2020, 2, 11)}, \u0027Kafka\u0027: {\u0027recommended_version\u0027: \u00272.4.1\u0027, \u0027release_date\u0027: datetime.date(2020, 3, 12)}, \u0027etcd\u0027: {\u0027recommended_version\u0027: \u0027v3.4.7\u0027, \u0027release_date\u0027: datetime.date(2020, 4, 1), \u0027notes\u0027: \u0027in multicloud k8s\u0027}, \u0027redis\u0027: {\u0027recommended_version\u0027: \u00276.0.0\u0027, \u0027release_date\u0027: datetime.date(2020, 4, 30), \u0027notes\u0027: \u0027in DCAE, VFC\u0027}, \u0027Elasticsearch\u0027: {\u0027recommended_version\u0027: \u00277.6.2\u0027, \u0027release_date\u0027: datetime.date(2020, 3, 31), \u0027notes\u0027: \u0027in CLAMP + SDNC\u0027}, \u0027consul\u0027: {\u0027recommended_version\u0027: [\u00271.6.5\u0027, \u00271.7.2\u0027], \u0027release_date\u0027: [datetime.date(2020, 4, 13), datetime.date(2020, 3, 16)], \u0027notes\u0027: \u0027in AAF SMS + in consul\u0027}, \u0027vault\u0027: {\u0027recommended_version\u0027: [\u00271.4.1\u0027, \u00271.3.5\u0027], \u0027release_date\u0027: [datetime.date(2020, 4, 30), datetime.date(2020, 4, 28)], \u0027notes\u0027: \u0027in AAF SMS\u0027}, \u0027haproxy\u0027: {\u0027recommended_version\u0027: 2.0, \u0027release_date\u0027: datetime.date(2019, 6, 16), \u0027notes\u0027: \u0027used by AAI\u0027}, \u0027nifi-registry\u0027: {\u0027recommended_version\u0027: \u00271.11.4\u0027, \u0027release_date\u0027: datetime.date(2020, 3, 22), \u0027notes\u0027: \u0027used by DCAE Mod\u0027}, \u0027filebeat\u0027: {\u0027recommended_version\u0027: \u00277.6.2\u0027, \u0027release_date\u0027: datetime.date(2020, 3, 31), \u0027notes\u0027: \u0027will be hopefully removed by end of Guilin\u0027}, \u0027nginx\u0027: {\u0027recommended_version\u0027: [\u00271.18.0\u0027, \u00271.17.10\u0027], \u0027release_date\u0027: [datetime.date(2020, 4, 20), datetime.date(2020, 4, 23)], \u0027notes\u0027: \u0027in contrib, in\u0027}, \u0027nexus\u0027: {\u0027recommended_version\u0027: \u00273.23.0\u0027, \u0027release_date\u0027: datetime.date(2020, 5, 5), \u0027notes\u0027: \u0027in policy I guess. Amy Zwarico is this a nexus repo or another software component called nexus? 3.23.0 is from Sonatype.\\n\u0027}, \u0027zookeeper\u0027: {\u0027recommended_version\u0027: \u00273.6.1\u0027, \u0027release_date\u0027: datetime.date(2020, 4, 30), \u0027notes\u0027: \u0027dmaap message router and in portal\u0027}, \u0027memcached\u0027: {\u0027recommended_version\u0027: \u00271.6.5\u0027, \u0027release_date\u0027: datetime.date(2020, 4, 13), \u0027notes\u0027: \u0027in contrib. Amy Zwarico the latest version of nmemcached was released in 2012. It is not clear if memcached is still supported by the community\\n\u0027}, \u0027netbox\u0027: {\u0027recommended_version\u0027: \u00272.8.1\u0027, \u0027release_date\u0027: datetime.date(2020, 4, 23), \u0027notes\u0027: \u0027in contrib\u0027}, \u0027awx\u0027: {\u0027recommended_version\u0027: \u002711.2.0\u0027, \u0027release_date\u0027: datetime.date(2020, 4, 29), \u0027notes\u0027: \u0027in contrib\u0027}, \u0027ejbca\u0027: {\u0027recommended_version\u0027: \u00276.15.2.6\u0027, \u0027notes\u0027: \u0027in contrib\u0027}, \u0027rabbitmq\u0027: {\u0027recommended_version\u0027: [\u00273.7.25\u0027, \u00273.8.3\u0027], \u0027release_date\u0027: [datetime.date(2020, 4, 9), datetime.date(2020, 3, 10)], \u0027notes\u0027: \u0027used by multicloud fcaps.3.7.25 is the final release in the 3.7.x series and GitHub recommends using 3.8.3\\n\u0027}}\n\u003e\u003e\u003e type(data)\n\u003cclass \u0027dict\u0027\u003e\n\u003e\u003e\u003e data[\u0027java11\u0027]\n{\u0027recommended_version\u0027: \u0027Java SE 11.0.6\u0027, \u0027release_date\u0027: datetime.date(2020, 1, 14), \u0027notes\u0027: \u0027Based on the Java 11 release history, there will likely be  new releases in April, July and November.\\n\u0027}\n\u003e\u003e\u003e data[\u0027Kafka\u0027]\n{\u0027recommended_version\u0027: \u00272.4.1\u0027, \u0027release_date\u0027: datetime.date(2020, 3, 12)}\n\u003e\u003e\u003e data[\u0027consul\u0027]\n{\u0027recommended_version\u0027: [\u00271.6.5\u0027, \u00271.7.2\u0027], \u0027release_date\u0027: [datetime.date(2020, 4, 13), datetime.date(2020, 3, 16)], \u0027notes\u0027: \u0027in AAF SMS + in consul\u0027}\n\u003e\u003e\u003e data[\u0027Kafka\u0027][\u0027recommended_version\u0027]\n\u00272.4.1\u0027\n\u003e\u003e\u003e type(data[\u0027Kafka\u0027][\u0027recommended_version\u0027])\n\u003cclass \u0027str\u0027\u003e\n\nit is string",
+      "parentUuid": "37fc229e_e594b833",
+      "range": {
+        "startLine": 16,
+        "startChar": 25,
+        "endLine": 16,
+        "endChar": 29
+      },
+      "revId": "22e1fb1dc914a79865d598f11c4e2a753fe547f2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "9576bf30_a3f3b875",
         "filename": "recommended_versions.yaml",
         "patchSetId": 2
@@ -60,6 +84,30 @@
       "writtenOn": "2020-06-18T08:56:07Z",
       "side": 1,
       "message": "Quoting strings was dropped from all notes but this one - how is it different from others?",
+      "range": {
+        "startLine": 94,
+        "startChar": 11,
+        "endLine": 94,
+        "endChar": 23
+      },
+      "revId": "22e1fb1dc914a79865d598f11c4e2a753fe547f2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "60fd530e_10aed4de",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2020-06-18T09:24:48Z",
+      "side": 1,
+      "message": "my bad",
+      "parentUuid": "9576bf30_a3f3b875",
       "range": {
         "startLine": 94,
         "startChar": 11,
