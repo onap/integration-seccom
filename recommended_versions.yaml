@@ -1,0 +1,152 @@
+---
+java11:
+    recommended_version: Java SE 11.0.6
+    release_date: 2020-01-14
+    notes: >
+      Based on the Java 11 release history, there will likely be  new releases
+      in April, July and November.
+python3:
+    recommended_version: 3.8.3
+    release_date: 2019-10-14
+    notes: Next release is planned for 2020-10-05
+Docker:
+    recommended_version: 19.03.8
+    release_date: 2020-03-10
+Kubernetes:
+    recommended_version: 1.17
+    release_date: 2019-12-09
+    notes: >
+      1.18.0-rc.1 was released on 2020-03-17. If it is stable within the next
+      month, I recommend using 1.18 for Guilin.
+Ubuntu:
+    recommended_version: 18.04
+    release_date: 2018-04-26
+Debian:
+    recommended_version: 10
+    release_date: 2019-07-06
+Alpine:
+    recommended_version: 3.11.5
+    release_date: 2019-12-19
+CentOS:
+    recommended_version: 8
+    release_date: 2019-09-24
+OpenSSL:
+    recommended_version: 1.1.1g
+    release_date: 2020-04-21
+    notes: ONAP acceptable cipher configuration TBD.
+OpenSSH:
+    recommended_version: 8.2
+    release_date: 2020-02-14
+    notes: ONAP acceptable cipher configuration TBD.
+Cassandra:
+    recommended_version: 3.11.6
+    release_date: 2020-02-14
+MongoDB:
+    recommended_version: 4.2.2
+    release_date: 2019-12-09
+
+MariaDB:
+    recommended_version: 10.4.12
+    release_date: 2020-01-28
+    notes: Preview version of 10.5.1 became available on 2020-02-14
+Postgresql:
+    recommended_version: 12.2
+    release_date: 2020-02-13
+    notes: >
+      11.7 was released on 2020-02-13 and Postgresql 11 will remain supported
+      until 2023-11-09
+Camunda:
+    recommended_version: 7.12.0
+    release_date: 2019-11-20
+OpenDayLight:
+    recommended_version: Sodium-SR2
+    release_date: 2020-02-11
+Kafka:
+    recommended_version: 2.4.1
+    release_date: 2020-03-12
+etcd:
+    recommended_version: v3.4.7
+    release_date: 2020-04-01
+    notes: in multicloud k8s
+redis:
+    recommended_version: 6.0.0
+    release_date: 2020-04-30
+    notes: in DCAE, VFC
+Elasticsearch:
+    recommended_version: 7.6.2
+    release_date: 2020-03-31
+    notes: in CLAMP + SDNC
+consul:
+    recommended_version:
+        - 1.6.5
+        - 1.7.2
+    release_date:
+        - 2020-04-13
+        - 2020-03-16
+    notes: in AAF SMS + in consul
+vault:
+    recommended_version:
+        - 1.4.1
+        - 1.3.5
+    release_date:
+        - 2020-04-30
+        - 2020-04-28
+    notes: in AAF SMS
+haproxy:
+    recommended_version: 2.0
+    release_date: 2019-06-16
+    notes: used by AAI
+nifi-registry:
+    recommended_version: 1.11.4
+    release_date: 2020-03-22
+    notes: used by DCAE Mod
+filebeat:
+    recommended_version: 7.6.2
+    release_date: 2020-03-31
+    notes: will be hopefully removed by end of Guilin
+nginx:
+    recommended_version:
+        - 1.18.0
+        - 1.17.10
+    release_date:
+        - 2020-04-20
+        - 2020-04-23
+    notes: in contrib, in
+nexus:
+    recommended_version: 3.23.0
+    release_date: 2020-05-05
+    notes: >
+      in policy I guess. Amy Zwarico is this a nexus repo or another software
+      component called nexus? 3.23.0 is from Sonatype.
+zookeeper:
+    recommended_version: 3.6.1
+    release_date: 2020-04-30
+    notes: dmaap message router and in portal
+memcached:
+    recommended_version: 1.6.5
+    release_date: 2020-04-13
+    notes: >
+      in contrib. Amy Zwarico the latest version of nmemcached was released
+      in 2012. It is not clear if memcached is still supported by the
+      community
+netbox:
+    recommended_version: 2.8.1
+    release_date: 2020-04-23
+    notes: in contrib
+awx:
+    recommended_version: 11.2.0
+    release_date: 2020-04-29
+    notes: in contrib
+ejbca:
+    recommended_version: 6.15.2.6
+    notes: in contrib
+rabbitmq:
+    recommended_version:
+        - 3.7.25
+        - 3.8.3
+    release_date:
+        - 2020-04-09
+        - 2020-03-10
+    notes: >
+      used by multicloud fcaps.3.7.25 is the final release in the 3.7.x series
+      and GitHub recommends using 3.8.3
