@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1bc08866_c5ea23de",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-06-19T22:36:19Z",
+      "side": 1,
+      "message": "Why Java SE 11.0.6 instead of just 11.0.6?",
+      "revId": "04df79fc1c7aeabb2a78995a99bae1d5aafa6cda",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6d9c1fa5_a3dee90f",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-06-19T22:36:19Z",
+      "side": 1,
+      "message": "Stupid newbie question... Why do we need release_date? Do we care about it? Version should be enough to identify uniquely package...",
+      "revId": "04df79fc1c7aeabb2a78995a99bae1d5aafa6cda",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "739adac2_ed910864",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-06-19T22:36:19Z",
+      "side": 1,
+      "message": "I\u0027m not a fan of two lists.\nIf we really need this release data information I\u0027d prefer to put make this a list of objects and put both fields in a single object like:\n\n versions:\n   - version: 1.4.1\n     date: 2020-04-30\n   - version: 1.3.5\n     date: 2020-04-20\n\nPersonally I consider this to be more yaml-native;)",
+      "range": {
+        "startLine": 108,
+        "startChar": 0,
+        "endLine": 113,
+        "endChar": 20
+      },
+      "revId": "04df79fc1c7aeabb2a78995a99bae1d5aafa6cda",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
