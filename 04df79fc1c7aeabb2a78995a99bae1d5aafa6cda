@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "bddab09b_fe405301",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-06-26T00:33:30Z",
+      "side": 1,
+      "message": "When we put the list together we opted for Java SE.",
+      "parentUuid": "1bc08866_c5ea23de",
+      "revId": "04df79fc1c7aeabb2a78995a99bae1d5aafa6cda",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "6d9c1fa5_a3dee90f",
         "filename": "recommended_versions.yaml",
         "patchSetId": 4
@@ -65,6 +83,24 @@
       "writtenOn": "2020-06-22T09:30:24Z",
       "side": 1,
       "message": "I copied/pasted the SECCOM wiki page...\nI am not sure to see the need for the release date, looks redundant with version indication\nI can remove it if you agree",
+      "parentUuid": "6d9c1fa5_a3dee90f",
+      "revId": "04df79fc1c7aeabb2a78995a99bae1d5aafa6cda",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ebf92b83_694f180d",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-06-26T00:33:30Z",
+      "side": 1,
+      "message": "The list was taken from the wiki (https://wiki.onap.org/display/DW/Database%2C+Java%2C+Python%2C+Docker%2C+Kubernetes%2C+and+Image+Versions). We included a date as information. The list is one the wiki to provide easy access and to get feedback from the community.",
       "parentUuid": "6d9c1fa5_a3dee90f",
       "revId": "04df79fc1c7aeabb2a78995a99bae1d5aafa6cda",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",

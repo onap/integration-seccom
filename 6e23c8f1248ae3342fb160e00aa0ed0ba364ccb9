@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2b21cbb3_e6832e8d",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-06-26T00:33:30Z",
+      "side": 1,
+      "message": "Suggested change to the comment:\nThis file lists the SECCOM recommended versions of various components for the Guilin release",
+      "range": {
+        "startLine": 2,
+        "startChar": 2,
+        "endLine": 2,
+        "endChar": 76
+      },
+      "revId": "6e23c8f1248ae3342fb160e00aa0ed0ba364ccb9",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
