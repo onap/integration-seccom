@@ -46,6 +46,30 @@
       "revId": "6e23c8f1248ae3342fb160e00aa0ed0ba364ccb9",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a953cbab_2d6bb9ba",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-06-26T15:25:40Z",
+      "side": 1,
+      "message": "+1 to Morgan rationale",
+      "parentUuid": "43ff6093_7f9bdd6c",
+      "range": {
+        "startLine": 2,
+        "startChar": 2,
+        "endLine": 2,
+        "endChar": 76
+      },
+      "revId": "6e23c8f1248ae3342fb160e00aa0ed0ba364ccb9",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
