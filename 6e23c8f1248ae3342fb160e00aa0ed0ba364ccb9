@@ -22,6 +22,30 @@
       "revId": "6e23c8f1248ae3342fb160e00aa0ed0ba364ccb9",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "43ff6093_7f9bdd6c",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2020-06-26T07:46:10Z",
+      "side": 1,
+      "message": "as it is versioned, I do not think it is needed.\nAs it is introduced now, it is for master (Guilin)\nonce Guilin will be there will be create a branch and you could update on master for the next releases.\n\nAs a conclusion thanks to gerrit branch, it will always be possible to know to which version it corresponds",
+      "parentUuid": "2b21cbb3_e6832e8d",
+      "range": {
+        "startLine": 2,
+        "startChar": 2,
+        "endLine": 2,
+        "endChar": 76
+      },
+      "revId": "6e23c8f1248ae3342fb160e00aa0ed0ba364ccb9",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
