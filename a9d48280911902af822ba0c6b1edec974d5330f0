@@ -62,6 +62,29 @@
       "revId": "a9d48280911902af822ba0c6b1edec974d5330f0",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e2bb8fd7_987afd6e",
+        "filename": "INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2020-07-06T23:11:26Z",
+      "side": 1,
+      "message": "Remove the extra blank lines",
+      "range": {
+        "startLine": 112,
+        "startChar": 0,
+        "endLine": 112,
+        "endChar": 0
+      },
+      "revId": "a9d48280911902af822ba0c6b1edec974d5330f0",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
