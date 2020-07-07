@@ -84,6 +84,30 @@
     },
     {
       "key": {
+        "uuid": "cf82503c_679cc096",
+        "filename": "INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-07-07T07:16:30Z",
+      "side": 1,
+      "message": "Oh that\u0027s cool. Never saw her name in INFO.yaml that\u0027s why I\u0027ve been surprised;)",
+      "parentUuid": "ee782778_ce16c073",
+      "range": {
+        "startLine": 44,
+        "startChar": 13,
+        "endLine": 44,
+        "endChar": 30
+      },
+      "revId": "a9d48280911902af822ba0c6b1edec974d5330f0",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "97b43815_62657a86",
         "filename": "INFO.yaml",
         "patchSetId": 2
@@ -119,6 +143,30 @@
       "side": 1,
       "message": "he is not as active as he used to be but he is still active, committing fixes in robot and use case scripts and answering to lots of questions.",
       "parentUuid": "97b43815_62657a86",
+      "range": {
+        "startLine": 54,
+        "startChar": 6,
+        "endLine": 54,
+        "endChar": 27
+      },
+      "revId": "a9d48280911902af822ba0c6b1edec974d5330f0",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6272b27f_a051ae71",
+        "filename": "INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-07-07T07:16:30Z",
+      "side": 1,
+      "message": "Ok I thought that he migrated to other challenges as we recently removed him from oom repo but it may be not the case. It\u0027s cool that he still helps us",
+      "parentUuid": "6567c048_7317f289",
       "range": {
         "startLine": 54,
         "startChar": 6,
