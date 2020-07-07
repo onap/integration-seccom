@@ -22,6 +22,30 @@
       "revId": "7e8135508bf593c294a666cd976ad393ac8d7640",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d1e1b441_2075eabf",
+        "filename": "INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2020-07-07T16:56:13Z",
+      "side": 1,
+      "message": "it is a mix between integration and seccom\nbut yes I will update it\nI need to do the same operations in all my repos - even before i became PTL, all the repos are referencing releng, no idea why",
+      "parentUuid": "f0ccbcd7_63fc5e80",
+      "range": {
+        "startLine": 6,
+        "startChar": 15,
+        "endLine": 6,
+        "endChar": 30
+      },
+      "revId": "7e8135508bf593c294a666cd976ad393ac8d7640",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
