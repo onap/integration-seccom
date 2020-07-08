@@ -1,0 +1,14 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+2: Daniel Rose <dr695h@att.com>
+Code-Review+1: Sylvain Desbureaux <sylvain.desbureaux@orange.com>
+Code-Review+1: Paweł Wieczorek <p.wieczorek2@samsung.com>
+Code-Review+1: Krzysztof Opasiak <k.opasiak@samsung.com>
+Code-Review+1: Amy Zwarico <az9121@att.com>
+Code-Review+2: Morgan Richomme <morgan.richomme@orange.com>
+Code-Review+1: Christophe Closset <christophe.closset@intl.att.com>
+Code-Review+1: Pawel Pawlak <p.pawlak@f5.com>
+Submitted-by: Catherine Lefevre <cl664y@att.com>
+Submitted-at: Wed, 08 Jul 2020 08:50:05 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/seccom/+/109286
+Project: integration/seccom
+Branch: refs/heads/master
