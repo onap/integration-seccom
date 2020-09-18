@@ -1,0 +1,3 @@
+# Expected failure list for unlimitted pods
+
+portal-db-config # config pod
