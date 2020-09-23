@@ -1,5 +1,18 @@
 # Expected failure list for rooted ports
 
+# Projects in maintenance mode for Guilin
+aaf
+aai-data-router # AAI-31dd75
+aai-data-router # AAI-31dd75
+aai-elasticsearch # AAI-3175
+aai-search-data # AAI-3175
+aai-sparky-be # AAI-3175
+
+# Upstream components
+cassandra
+awx
+netbox
+
 # frankfurt history
 ## We consider only the pods we built
 #aaf-cass # cassandra
