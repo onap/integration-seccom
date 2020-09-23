@@ -22,6 +22,30 @@
       "revId": "ea69f41b8efb4c4ce260906dc41b073efe8546d6",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c7a77e8f_c4d46159",
+        "filename": "waivers/root_pods/root_pods_xfail.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2020-09-23T09:13:51Z",
+      "side": 1,
+      "message": "yes agree, bad operation the dd was for vi dd and delete the line...\nas it must not be excluded",
+      "parentUuid": "ade98a8c_82eb5b48",
+      "range": {
+        "startLine": 5,
+        "startChar": 24,
+        "endLine": 6,
+        "endChar": 26
+      },
+      "revId": "ea69f41b8efb4c4ce260906dc41b073efe8546d6",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
