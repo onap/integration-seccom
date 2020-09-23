@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ade98a8c_82eb5b48",
+        "filename": "waivers/root_pods/root_pods_xfail.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 5047
+      },
+      "writtenOn": "2020-09-23T08:12:15Z",
+      "side": 1,
+      "message": "I saw discussion on those in the Jira ticket, but they are still present in the latest gating as of writing this comment [1] and most recent successful daily chain [2]\n\nLet\u0027s not dd them unless they are out of waiver scope\n\n[1] https://logs.onap.org/onap-integration/gating/112957-1/security/root_pods/root_pods.log\n[2] https://logs.onap.org/onap-integration/daily/onap_daily_pod4_master/09-21-2020_07-09/security/root_pods/root_pods.log",
+      "range": {
+        "startLine": 5,
+        "startChar": 24,
+        "endLine": 6,
+        "endChar": 26
+      },
+      "revId": "ea69f41b8efb4c4ce260906dc41b073efe8546d6",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
