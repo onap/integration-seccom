@@ -5,8 +5,10 @@ aaf
 aai-elasticsearch # AAI-3175
 aai-search-data # AAI-3175
 aai-sparky-be # AAI-3175
+music # MUSIC-609
 
 # Upstream components
 cassandra
 awx
 netbox
+
