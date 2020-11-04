@@ -16,9 +16,6 @@ cassandra # OOM-2552
 awx # used for use cases
 netbox # used for use cases
 robot # use for test cases + refactoring planned in Honolulu INT-1716
-msb-consul # MSB-518
-consul # DCAEGEN2-2424
 portal-cassandra # PORTAL-1001 task moved to Honolulu
 multicloud-fcaps # rabbit-mq
 clamp-mariadb # OOM-2552
-
