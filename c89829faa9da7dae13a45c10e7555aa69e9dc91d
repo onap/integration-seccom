@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "9fffbe8b_a2bd8e01",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-11-12T15:13:26Z",
+      "side": 1,
+      "message": "Ack - agree with 3.9.",
+      "parentUuid": "a1bcc754_f30c061b",
+      "range": {
+        "startLine": 9,
+        "startChar": 10,
+        "endLine": 9,
+        "endChar": 15
+      },
+      "revId": "c89829faa9da7dae13a45c10e7555aa69e9dc91d",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "2d547ef4_bedeae4f",
         "filename": "recommended_versions.yaml",
         "patchSetId": 1
@@ -77,6 +101,24 @@
       "writtenOn": "2020-11-12T14:55:24Z",
       "side": 1,
       "message": "Ack",
+      "parentUuid": "2d547ef4_bedeae4f",
+      "revId": "c89829faa9da7dae13a45c10e7555aa69e9dc91d",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9009c94f_ec67216f",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-11-12T15:13:26Z",
+      "side": 1,
+      "message": "Ack - agree with 3.3.4 for H release",
       "parentUuid": "2d547ef4_bedeae4f",
       "revId": "c89829faa9da7dae13a45c10e7555aa69e9dc91d",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
