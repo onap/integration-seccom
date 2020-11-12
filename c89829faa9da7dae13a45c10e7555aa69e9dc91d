@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a1bcc754_f30c061b",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6079
+      },
+      "writtenOn": "2020-11-12T14:15:15Z",
+      "side": 1,
+      "message": "Python 3.9 was released in October, there are no big changes between 3.8 and 3.9, so the migration shouldn\u0027t be complex",
+      "range": {
+        "startLine": 9,
+        "startChar": 10,
+        "endLine": 9,
+        "endChar": 15
+      },
+      "revId": "c89829faa9da7dae13a45c10e7555aa69e9dc91d",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
