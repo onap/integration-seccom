@@ -6,64 +6,66 @@ java11:
         - 11.0.6
 python3:
     recommended_versions:
-        - 3.8.3
+        - 3.8.7
 Docker:
     recommended_versions:
-        - 19.03.8
+        - 19.03.13
 Kubernetes:
     recommended_versions:
-        - 1.17
+        - 1.19
+Helm:
+    recommended_versions:
+        - 3.3.3
 Ubuntu:
     recommended_versions:
-        - 18.04
+        - 20.04
 Debian:
     recommended_versions:
-        - 10
+        - 10.5
 Alpine:
     recommended_versions:
-        - 3.11.5
+        - 3.12
 CentOS:
     recommended_versions:
-        - 8
+        - 8.2-2004
 OpenSSL:
     recommended_versions:
         - 1.1.1g
 OpenSSH:
     recommended_versions:
-        - 8.2
+        - 8.3
 Cassandra:
     recommended_versions:
-        - 3.11.6
+        - 3.11.8
 MongoDB:
     recommended_versions:
-        - 4.2.2
+        - 4.4.1
 MariaDB:
     recommended_versions:
-        - 10.4.12
+        - 10.5.5
 Postgresql:
     recommended_versions:
-        - 12.2
+        - 12.4
 Camunda:
     recommended_versions:
-        - 7.12.0
+        - 7.13
 OpenDayLight:
     recommended_versions:
-        - Sodium-SR2
+        - Magnesium
 Kafka:
     recommended_versions:
-        - 2.4.1
+        - 2.5.1
 etcd:
     recommended_versions:
-        - v3.4.7
+        - v3.4.13
 redis:
     recommended_versions:
-        - 6.0.0
+        - 6.0.8
 Elasticsearch:
     recommended_versions:
-        - 7.6.2
+        - 7.9.1
 consul:
     recommended_versions:
-        - 1.6.5
         - 1.7.2
 vault:
     recommended_versions:
@@ -71,36 +73,35 @@ vault:
         - 1.3.5
 haproxy:
     recommended_versions:
-        - 2.0
+        - 2.2
 nifi-registry:
     recommended_versions:
-        - 1.11.4
+        - 1.12
 filebeat:
     recommended_versions:
-        - 7.6.2
+        - 7.9.1
 nginx:
     recommended_versions:
-        - 1.18.0
-        - 1.17.10
+        - 1.19.2
 nexus:
     recommended_versions:
         - 3.23.0
 zookeeper:
     recommended_versions:
-        - 3.6.1
+        - 3.6.2
 memcached:
     recommended_versions:
-        - 1.6.5
+        - 1.6.7
 netbox:
     recommended_versions:
-        - 2.8.1
+        - 2.8.9
 awx:
     recommended_versions:
-        - 11.2.0
+        - 14.1.0
 ejbca:
     recommended_versions:
-        - 6.15.2.6
+        - 7.3.1.2
 rabbitmq:
     recommended_versions:
         - 3.7.25
-        - 3.8.3
+        - 3.8.8
