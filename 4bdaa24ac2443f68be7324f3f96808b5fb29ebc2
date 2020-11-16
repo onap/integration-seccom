@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4523ee4c_d5841106",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-11-16T20:53:31Z",
+      "side": 1,
+      "message": "update to 11.0.9 (released 2020-10-20)\nnote that 11.0.6, 11.0.8 still acceptable",
+      "range": {
+        "startLine": 6,
+        "startChar": 10,
+        "endLine": 6,
+        "endChar": 16
+      },
+      "revId": "4bdaa24ac2443f68be7324f3f96808b5fb29ebc2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
