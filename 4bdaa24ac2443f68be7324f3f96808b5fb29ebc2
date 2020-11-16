@@ -46,6 +46,30 @@
       "revId": "4bdaa24ac2443f68be7324f3f96808b5fb29ebc2",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e7069413_38ac5fdc",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2020-11-16T22:11:50Z",
+      "side": 1,
+      "message": "Ideally, ONAP would use consistent infrastructure packages, but we aren\u0027t there yet.\n\nI don\u0027t want to maintain multiple lists, so I recommend removing the note about 11.0.6 and 11.0.8. Notes like that work much better on wiki pages than they do in code ;)",
+      "parentUuid": "b2bb838a_90b4ebc3",
+      "range": {
+        "startLine": 6,
+        "startChar": 10,
+        "endLine": 6,
+        "endChar": 16
+      },
+      "revId": "4bdaa24ac2443f68be7324f3f96808b5fb29ebc2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
