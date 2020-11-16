@@ -22,6 +22,30 @@
       "revId": "4bdaa24ac2443f68be7324f3f96808b5fb29ebc2",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b2bb838a_90b4ebc3",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-11-16T21:13:49Z",
+      "side": 1,
+      "message": "So how do we treat this list?\nDoes it define the minimum version and anything above is acceptable or we should provide 2 lists one of preferred versions and a second one of acceptable or just use same list but provide multiple entries?\nDoes anyone knows what is the semantic here?",
+      "parentUuid": "4523ee4c_d5841106",
+      "range": {
+        "startLine": 6,
+        "startChar": 10,
+        "endLine": 6,
+        "endChar": 16
+      },
+      "revId": "4bdaa24ac2443f68be7324f3f96808b5fb29ebc2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
