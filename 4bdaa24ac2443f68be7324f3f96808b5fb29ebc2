@@ -70,6 +70,30 @@
       "revId": "4bdaa24ac2443f68be7324f3f96808b5fb29ebc2",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "dacd353b_5fe28cf9",
+        "filename": "recommended_versions.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2020-11-17T07:22:42Z",
+      "side": 1,
+      "message": "note that it is the change in master to be cherry-picked to honolulu branch\nwe can indicate several versions in a list, but by default it is the min acceptable version, no?\nso if 11.0.6 is acceptable for honolulu, I think it shall be the one..\nit is up to seccom to define the semantic... 😊\n\nand ultimately to merge the patch",
+      "parentUuid": "e7069413_38ac5fdc",
+      "range": {
+        "startLine": 6,
+        "startChar": 10,
+        "endLine": 6,
+        "endChar": 16
+      },
+      "revId": "4bdaa24ac2443f68be7324f3f96808b5fb29ebc2",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
