@@ -1,19 +1,1 @@
 # Expected failure list for unlimitted pods
-
-# Components in maintenance mode
-music
-esr
-
-# waivers
-dcae # DCAEGEN2-2429 moved to Honolulu
-
-# upstream components
-consul
-awx # used for use cases
-netbox # used for use cases
-network-name-gen # used for use cases
-
-# config pod
-portal-db-config # config pod
-vnfsdk-init-postgres
-vid-galera-config

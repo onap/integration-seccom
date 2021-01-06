@@ -1,21 +1,2 @@
 # Expected failure list for rooted ports
 
-# Projects in maintenance mode for Guilin
-aaf
-aai-elasticsearch # AAI-3175
-aai-search-data # AAI-3175
-aai-sparky-be # AAI-3175
-music # MUSIC-609
-
-# waivers requested
-dcae-cloudify # DCAEGEN2-2424
-multicloud-k8s # MULTICLOUD-1201
-
-# Upstream components
-cassandra # OOM-2552
-awx # used for use cases
-netbox # used for use cases
-robot # use for test cases + refactoring planned in Honolulu INT-1716
-portal-cassandra # PORTAL-1001 task moved to Honolulu
-multicloud-fcaps # rabbit-mq
-clamp-mariadb # OOM-2552
