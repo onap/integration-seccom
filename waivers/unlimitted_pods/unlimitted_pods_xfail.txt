@@ -1,0 +1,4 @@
+<<<<<<< HEAD   (a8a3e4 Fix typo in JDWP waiver path)
+=======
+# Expected failure list for unlimitted pods
+>>>>>>> CHANGE (2a09ee Reset Security waivers on Master)

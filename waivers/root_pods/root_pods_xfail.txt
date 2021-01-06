@@ -1,5 +1,6 @@
 # Expected failure list for rooted ports
 
+<<<<<<< HEAD   (a8a3e4 Fix typo in JDWP waiver path)
 # frankfurt history
 ## We consider only the pods we built
 #aaf-cass # cassandra
@@ -33,3 +34,5 @@
 #vnfsdk # testing VNFSDK-565
 #pomba # nobody taking cares of pomba for several releases
 #dcaemod # dcae experimental pods for Frankfurt
+=======
+>>>>>>> CHANGE (2a09ee Reset Security waivers on Master)
