@@ -1,0 +1,8 @@
+# Waiver for versions test
+# all the following docker images shall be excluded from the version scanning
+
+docker.nexus.azure.onap.eu/beats/filebeat:5.5.0
+docker.nexus.azure.onap.eu/cassandra:3.11.4
+nexus3.onap.org:10001/onap/music/cassandra_3_11:3.0.24
+docker.nexus.azure.onap.eu/bitnami/cassandra:3.11.9-debian-10-r30
+
