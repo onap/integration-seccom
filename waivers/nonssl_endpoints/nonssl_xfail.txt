@@ -1,1 +1,4 @@
 # Expected failure list for non-SSL endpoints
+
+# Upstream components
+awx
