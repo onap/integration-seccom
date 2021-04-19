@@ -1,5 +1,6 @@
 # Expected failure list for non-SSL endpoints
 
+<<<<<<< HEAD   (4d7f68 Update recommended versions for honolulu)
 
 # frankfurt History
 # robot 30209
@@ -15,3 +16,7 @@
 ## Upstream:
 # awx-web 30478
 # netbox-nginx 30420
+=======
+# Upstream components
+awx
+>>>>>>> CHANGE (f6a8ce [WAIVERS] Set Honolulu security waivers)

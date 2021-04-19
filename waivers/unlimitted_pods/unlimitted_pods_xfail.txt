@@ -1,1 +1,17 @@
 # Expected failure list for unlimitted pods
+# Components in maintenance mode
+music
+esr
+
+# waivers
+
+# upstream components
+awx # used for use cases
+netbox # used for use cases
+
+# testing
+network-name-gen # used for use cases
+
+# config pod
+portal-db-config # config pod
+vnfsdk-init-postgres
