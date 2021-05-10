@@ -1,13 +1,2 @@
 # Waiver for versions test
 # all the following docker images shall be excluded from the version scanning
-
-docker.nexus.azure.onap.eu/beats/filebeat:5.5.0
-docker.nexus.azure.onap.eu/cassandra:3.11.4
-nexus3.onap.org:10001/onap/music/cassandra_3_11:3.0.24
-docker.nexus.azure.onap.eu/bitnami/cassandra:3.11.9-debian-10-r30
-#dcae exceptions
-nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.genprocessor-job:1.0.2
-nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.genprocessor-http:1.0.2
-apache/nifi-registry:0.5.0
-#oom common (reporting false positive for python 2.7.5)
-crunchydata/crunchy-postgres:centos7-10.11-4.2.1
