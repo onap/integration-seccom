@@ -1,0 +1,10 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Verified+1: Pawel Pawlak <p.pawlak@f5.com>
+Code-Review+1: Pawel Pawlak <p.pawlak@f5.com>
+Code-Review+2: Bartek Grzybowski <b.grzybowski@partner.samsung.com>
+Code-Review+1: Alexander Mazuruk <a.mazuruk@samsung.com>
+Submitted-by: Lukasz Rajewski <lukasz.rajewski@orange.com>
+Submitted-at: Mon, 14 Jun 2021 13:09:28 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/seccom/+/121849
+Project: integration/seccom
+Branch: refs/heads/master
