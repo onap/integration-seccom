@@ -2,7 +2,8 @@
 
 # Unmaintained but still needed components
 
-# waivers requested already in Guilin but no progress
+# waivers requested already since Guilin but no progress
+dcae-cloudify # DCAEGEN2-2424
 
 # Upstream components
 cassandra # OOM-2552

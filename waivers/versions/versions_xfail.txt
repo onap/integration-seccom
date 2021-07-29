@@ -1,2 +1,8 @@
 # Waiver for versions test
 # all the following docker images shall be excluded from the version scanning
+
+#dcae exceptions
+nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.genprocessor-job:1.0.2
+nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.genprocessor-http:1.0.2
+nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.designtool-web:1.0.2
+apache/nifi-registry:0.5.0
