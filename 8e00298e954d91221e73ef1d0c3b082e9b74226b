@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b8d6941d_94b347e4",
+        "filename": "waivers/nonssl_endpoints/nonssl_xfail.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2021-08-04T22:36:21Z",
+      "side": 0,
+      "message": "Why is awx being removed from the Upstream components?",
+      "revId": "8e00298e954d91221e73ef1d0c3b082e9b74226b",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
