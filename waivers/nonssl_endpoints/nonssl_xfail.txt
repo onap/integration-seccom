@@ -1,1 +1,11 @@
 # Expected failure list for non-SSL endpoints
+<<<<<<< HEAD   (37f3af Merge "[ADMIN] Add Illia Halych in INFO.yaml")
+=======
+
+# waivers requested already since Honolulu
+so # SO-3237 SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
+so-etsi-sol003-adapter # SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
+
+# Upstream components
+awx
+>>>>>>> CHANGE (02f5e1 [SO] non ssl ports waiver request)
