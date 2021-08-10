@@ -1,6 +1,7 @@
 # Expected failure list for rooted ports
 
 # Unmaintained but still needed components
+aaf
 
 # waivers requested already since Guilin but no progress
 dcae-cloudify # DCAEGEN2-2424
