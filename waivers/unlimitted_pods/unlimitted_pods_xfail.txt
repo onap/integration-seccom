@@ -2,6 +2,7 @@
 # Components in maintenance mode
 
 # waivers
+esr # unmaintained components
 
 # upstream components
 awx # used for use cases

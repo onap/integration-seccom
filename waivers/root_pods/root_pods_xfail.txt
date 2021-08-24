@@ -11,6 +11,8 @@ cassandra # OOM-2552
 awx # used for use cases
 netbox # used for use cases
 multicloud-fcaps # rabbit-mq
+oof-has-etcd # etcd
+multicloud-k8s-etcd # etcd
 
 # Testing components
 robot # use for test cases + refactoring planned in Istanbul INT-1716
