@@ -1,8 +1,55 @@
-# Waiver for versions test
-# all the following docker images shall be excluded from the version scanning
+# Waiver for versions test (python/java version check)
+# all the following docker container shall be 
+# excluded from the version scanning
 
-#dcae exceptions
-nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.genprocessor-job:1.0.2
-nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.genprocessor-http:1.0.2
-nexus3.onap.org:10001/onap/org.onap.dcaegen2.platform.mod.designtool-web:1.0.2
-apache/nifi-registry:0.5.0
+# upstream containers
+# may be fixable using a more recent version...
+cassandra
+message-router-kafka
+message-router-zookeeper
+awx-celery
+awx-rabbit
+awx-web
+
+# unmaintained containers
+# nobody will worl on that a priori
+esr-gui
+esr-server
+msb-discovery
+msb-eag
+msb-iag
+portal-app
+portal-cassandra
+portal-sdk
+portal-widget
+aaf-cass
+
+# filebeat dockers
+filebeat
+filebeat-onap
+dcae-dashboard-filebeat
+dcae-deployment-handler-filebeat
+dcae-inventory-api-filebeat
+dcae-policy-handler-filebeat
+dmaap-dr-node-filebeat-onap
+dmaap-dr-prov-filebeat-onap
+esr-server-filebeat-onap
+modeling-etsicatalog-filebeat-onap
+msb-discovery-filebeat-onap
+sdc-be-filebeat-onap
+sdc-fe-filebeat-onap
+sdc-onboarding-be-filebeat-onap
+sdc-wfd-fe-filebeat-onap
+so-filebeat-onap
+so-bpmn-infra-filebeat-onap
+so-oof-adapter-filebeat-onap
+so-openstack-adapter-filebeat-onap
+so-sdc-controller-filebeat-onap
+so-sdnc-adapter-filebeat-onap
+vfc-generic-vnfm-driver-filebeat-onap
+vfc-huawei-vnfm-driver-filebeat-onap
+vfc-nslcm-filebeat-onap
+vfc-vnflcm-filebeat-onap
+vfc-vnfmgr-filebeat-onap
+vfc-vnfres-filebeat-onap
+vfc-zte-vnfm-driver-filebeat-onap
