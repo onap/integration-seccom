@@ -1,8 +1,9 @@
 # Expected failure list for non-SSL endpoints
 
 # waivers requested already since Honolulu
-so # SO-3237 SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
-so-etsi-sol003-adapter # SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
+so 30277 # SO-3237 SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
+so-etsi-sol003-adapter 30406 # SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
 
 # Upstream components
-awx
+awx-web 30478
+message-router-kafka 3049
