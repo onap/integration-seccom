@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "147e3a90_ecb1b84e",
+        "filename": "waivers/versions/versions_xfail.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 93
+      },
+      "writtenOn": "2021-08-30T16:25:29Z",
+      "side": 1,
+      "message": "Should include dcae-config-binding-service-fb-onap \u0026 dcae-config-binding-service-fb-onap-i as well as these are filebeat containers",
+      "revId": "fb3f134051c3a36a886ef09421dc3cbdeb5ae301",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
