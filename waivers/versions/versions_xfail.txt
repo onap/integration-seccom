@@ -5,8 +5,6 @@
 # upstream containers
 # may be fixable using a more recent version...
 cassandra
-message-router-kafka
-message-router-zookeeper
 awx-celery
 awx-rabbit
 awx-web
@@ -23,6 +21,7 @@ portal-cassandra
 portal-sdk
 portal-widget
 aaf-cass
+message-router
 
 # aai pods dependent on janusgraph which does not support Java 11 yet
 aai-graphadmin
