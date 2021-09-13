@@ -24,6 +24,11 @@ portal-sdk
 portal-widget
 aaf-cass
 
+# aai pods dependent on janusgraph which does not support Java 11 yet
+aai-graphadmin
+aai-resources
+aai-traversal
+
 # filebeat dockers
 filebeat
 filebeat-onap
