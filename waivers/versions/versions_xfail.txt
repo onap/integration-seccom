@@ -10,6 +10,7 @@ message-router-zookeeper
 awx-celery
 awx-rabbit
 awx-web
+sdnc-dmaap-listener
 
 # unmaintained containers
 # nobody will work on that a priori
