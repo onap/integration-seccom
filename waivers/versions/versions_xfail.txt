@@ -10,6 +10,9 @@ awx-rabbit
 awx-web
 dcae-cloudify-manager
 
+# maintained component to be managed later
+sdc-dmaap-listener
+
 # dcae exceptions
 dcaemod-designtool
 dcaemod-genprocessor
