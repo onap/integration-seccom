@@ -10,6 +10,12 @@ message-router-zookeeper
 awx-celery
 awx-rabbit
 awx-web
+dcae-cloudify-manager
+
+# dcae exceptions
+dcaemod-designtool
+dcaemod-genprocessor
+dcaemod-nifi-registry
 
 # unmaintained containers
 # nobody will work on that a priori
