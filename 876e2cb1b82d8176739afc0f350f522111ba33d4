@@ -16,6 +16,24 @@
       "revId": "876e2cb1b82d8176739afc0f350f522111ba33d4",
       "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a038864f_7803388f",
+        "filename": "waivers/versions/versions_xfail.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2527
+      },
+      "writtenOn": "2021-09-14T05:25:48Z",
+      "side": 1,
+      "message": "OK for me, let\u0027s proceed this way.",
+      "parentUuid": "47ba9fc4_4d82c034",
+      "revId": "876e2cb1b82d8176739afc0f350f522111ba33d4",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
     }
   ]
 }
