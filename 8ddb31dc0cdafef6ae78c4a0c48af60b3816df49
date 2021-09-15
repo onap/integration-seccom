@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0e796a19_8836d1b4",
+        "filename": "waivers/versions/versions_xfail.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2021-09-15T06:49:04Z",
+      "side": 1,
+      "message": "here is it he driver code not a filebeat docker..\n\nas the code did not change for a while, is it better to add a waiver or to remove this driver from the default installation\nin multicloud we removed lots of \"old\" drivers, we could imagine to do the same in vfc\nall the more as, as far as I know there is no automated tests dealing with this part of code in CI.\n\nIf people want to install them it is still possible but it is descoped from the default installation, what is your view?",
+      "revId": "8ddb31dc0cdafef6ae78c4a0c48af60b3816df49",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
