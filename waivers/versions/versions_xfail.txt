@@ -10,6 +10,9 @@ awx-rabbit
 awx-web
 dcae-cloudify-manager
 
+#sdnc exception
+sdnc-dmaap-listener
+
 # dcae exceptions
 dcaemod-designtool
 dcaemod-genprocessor
