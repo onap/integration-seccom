@@ -30,7 +30,8 @@ portal-cassandra
 portal-sdk
 portal-widget
 aaf-cass
-message-router
+message-router-kafka
+message-router-zookeeper
 robot
 
 # aai pods dependent on janusgraph which does not support Java 11 yet
