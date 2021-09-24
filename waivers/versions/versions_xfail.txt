@@ -39,6 +39,9 @@ aai-graphadmin
 aai-resources
 aai-traversal
 
+# multicloud exceptions
+multicloud-framework-artifactbroker
+
 # filebeat dockers
 filebeat
 filebeat-onap
