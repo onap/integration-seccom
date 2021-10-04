@@ -70,3 +70,6 @@ vfc-vnflcm-filebeat-onap
 vfc-vnfmgr-filebeat-onap
 vfc-vnfres-filebeat-onap
 vfc-zte-vnfm-driver-filebeat-onap
+
+# vnf drivers
+vfc-huawei-vnfm-driver
