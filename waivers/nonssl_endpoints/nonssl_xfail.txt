@@ -5,6 +5,9 @@
 so 30277
 so-etsi-sol003-adapter 30406
 
+# CDS - being worked, but missed cutoff for Istanbul
+cds-blueprints-processor-http 30449
+
 # Upstream components
 awx-web 30478
 message-router-kafka 3049*
