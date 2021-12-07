@@ -3,103 +3,106 @@
 # See SECCOM wiki for further details (release date, notes)
 java11:
     recommended_versions:
-        - 11.0.11
+        - 11.0.13
 python3:
     recommended_versions:
-        - 3.9.5
+        - 3.10.0
 Docker:
     recommended_versions:
-        - 20.10.6
+        - 20.10.11
 Kubernetes:
     recommended_versions:
-        - 1.21
+        - 1.22.4
 Helm:
     recommended_versions:
-        - 3.6.0
+        - 3.7.1
 Ubuntu:
     recommended_versions:
-        - 20.04.1
+        - 20.04.3
 Debian:
     recommended_versions:
-        - 10.9
+        - 11.1
 Alpine:
     recommended_versions:
-        - 3.13.0
-CentOS:
+        - 3.15.0
+Rocky_Linux:
     recommended_versions:
-        - 8.3-2011
+        - 8.4
 OpenSSL:
     recommended_versions:
-        - 1.1.1k
+        - 1.1.1
 OpenSSH:
     recommended_versions:
-        - 8.6
+        - 8.8
 Cassandra:
     recommended_versions:
-        - 3.11.10
+        - 4.0.1
 MongoDB:
     recommended_versions:
-        - 4.4.5
+        - 5.0.0
 MariaDB:
     recommended_versions:
-        - 10.5.10
+        - 10.6.5
 Postgresql:
     recommended_versions:
-        - 13.3
+        - 14.1
 Camunda:
     recommended_versions:
-        - 7.15
+        - 7.16.0
 OpenDayLight:
     recommended_versions:
-        - Aluminium
+        - Phosphorus-SR1
 Kafka:
     recommended_versions:
-        - 2.8.0
+        - 3.0.0
 etcd:
     recommended_versions:
-        - v3.4.16
+        - v3.5.1
 redis:
     recommended_versions:
-        - 6.2.3
+        - 6.2.6
 Elasticsearch:
     recommended_versions:
-        - 7.12.1
+        - 7.15.1
 consul:
     recommended_versions:
-        - 1.9.5
+        - 1.10.4
 vault:
     recommended_versions:
-        - 1.7.1
+        - 1.9.0
 haproxy:
     recommended_versions:
-        - 2.4.0
+        - 2.4.9
 nifi-registry:
     recommended_versions:
-        - 1.13.2
+        - 1.15.0
 filebeat:
     recommended_versions:
-        - 7.12.1
+        - 7.15.2
 nginx:
     recommended_versions:
         - 1.20.0
 nexus:
     recommended_versions:
-        - 3.30.1-01
+        - 3.37.0
 zookeeper:
     recommended_versions:
         - 3.7.0
 memcached:
     recommended_versions:
-        - 1.6.9
+        - 1.6.12
 netbox:
     recommended_versions:
-        - 2.11.3
+        - 3.0.11
 awx:
     recommended_versions:
-        - 19.1.0
+        - 19.5.0
 ejbca:
     recommended_versions:
         - 7.4.3.2
 rabbitmq:
     recommended_versions:
-        - 3.8.16
+        - 3.9.11
+chartmusem:
+    recommended_versions:
+        - 0.1.3
