@@ -1,18 +1,18 @@
 # Expected failure list for rooted ports
 
 # Unmaintained but still needed components
-aaf
+# aaf
 
 # waivers requested already since Guilin but no progress
-dcae-cloudify # DCAEGEN2-2424
+# dcae-cloudify # DCAEGEN2-2424
 
 # Upstream components
-cassandra # OOM-2552
-awx # used for use cases
-netbox # used for use cases
-multicloud-fcaps # rabbit-mq
-oof-has-etcd # etcd
-multicloud-k8s-etcd # etcd
+# cassandra # OOM-2552
+# awx # used for use cases
+# netbox # used for use cases
+# multicloud-fcaps # rabbit-mq
+# oof-has-etcd # etcd
+# multicloud-k8s-etcd # etcd
 
 # Testing components
-robot # use for test cases + refactoring planned in Istanbul INT-1716
+# robot # use for test cases + refactoring planned in Istanbul INT-1716

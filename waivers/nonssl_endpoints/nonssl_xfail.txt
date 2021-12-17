@@ -2,17 +2,17 @@
 
 # waivers requested already since Honolulu
 # SO-3237 SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
-so 30277
-so-etsi-sol003-adapter 30406
+# so 30277
+# so-etsi-sol003-adapter 30406
 
 # CDS - being worked, but missed cutoff for Istanbul
-cds-blueprints-processor-http 30449
+# cds-blueprints-processor-http 30449
 
 # SDNC - https://jira.onap.org/browse/SDNC-1628
-sdnc-callhome 30266
+# sdnc-callhome 30266
 
 # Upstream components
-awx-web 30478
-message-router-kafka 30490
-message-router-kafka 30491
-message-router-kafka 30492
+# awx-web 30478
+# message-router-kafka 30490
+# message-router-kafka 30491
+# message-router-kafka 30492
