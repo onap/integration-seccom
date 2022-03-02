@@ -1,0 +1,162 @@
+license_policies:
+
+
+- license_key: agpl-3.0
+  label: Prohibited License
+  compliance_alert: error
+- license_key: agpl-3.0-only
+  label: Prohibited License
+  compliance_alert: error
+
+- license_key: agpl-3.0-or-later
+  label: Prohibited License
+  compliance_alert: error
+- license_key: agpl-3.0-plus
+  label: Prohibited License
+  compliance_alert: error
+- license_key: agpl-3.0+
+  label: Prohibited License
+  compliance_alert: error
+
+- license_key: gpl-3.0
+  label: Prohibited License
+  compliance_alert: error
+- license_key: gpl-3.0-only
+  label: Prohibited License
+  compliance_alert: error
+
+- license_key: gpl-3.0-or-later
+  label: Prohibited License
+  compliance_alert: error
+- license_key: gpl-3.0-plus
+  label: Prohibited License
+  compliance_alert: error
+- license_key: gpl-3.0+
+  label: Prohibited License
+  compliance_alert: error
+
+- license_key: lgpl-3.0
+  label: Prohibited License
+  compliance_alert: error
+- license_key: lgpl-3.0-only
+  label: Prohibited License
+  compliance_alert: error
+
+- license_key: lgpl-3.0-or-later
+  label: Prohibited License
+  compliance_alert: error
+- license_key: lgpl-3.0-plus
+  label: Prohibited License
+  compliance_alert: error
+- license_key: lgpl-3.0+
+  label: Prohibited License
+  compliance_alert: error
+
+
+- license_key: agpl-2.0
+  label: Ambiguous License
+  compliance_alert: warning
+- license_key: gpl-2.0
+  label: Ambiguous License
+  compliance_alert: warning
+- license_key: lgpl-2.0
+  label: Ambiguous License
+  compliance_alert: warning
+- license_key: lgpl-2.1
+  label: Ambiguous License
+  compliance_alert: warning
+
+- license_key: agpl-2.0-plus
+  label: Restricted license
+  compliance_alert: warning
+- license_key: agpl-2.0-or-later
+  label: Restricted license
+  compliance_alert: warning
+- license_key: agpl-2.0+
+  label: Restricted license
+  compliance_alert: warning
+
+- license_key: gpl-2.0-plus
+  label: Restricted license
+  compliance_alert: warning
+- license_key: gpl-2.0-or-later
+  label: Restricted license
+  compliance_alert: warning
+- license_key: gpl-2.0+
+  label: Restricted license
+  compliance_alert: warning
+
+- license_key: lgpl-2.0-plus
+  label: Restricted license
+  compliance_alert: warning
+- license_key: lgpl-2.0-or-later
+  label: Restricted license
+  compliance_alert: warning
+- license_key: lgpl-2.0+
+  label: Restricted license
+  compliance_alert: warning
+
+- license_key: lgpl-2.1-plus
+  label: Restricted license
+  compliance_alert: warning
+- license_key: lgpl-2.1-or-later
+  label: Restricted license
+  compliance_alert: warning
+- license_key: lgpl-2.1+
+  label: Restricted license
+  compliance_alert: warning
+
+
+- license_key: agpl-2.0-only
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: apache-2.0
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: bsd-new
+  label: Approved License
+  compliance_alert: ''
+- license_key: bsd-3-clause
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: bsd-simplified
+  label: Approved License
+  compliance_alert: ''
+- license_key: bsd-2-clause
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: gpl-2.0-only
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: isc
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: lgpl-2.0-only
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: lgpl-2.1-only
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: mit
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: mpl-2.0
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: openssl-ssleay
+  label: Approved License
+  compliance_alert: ''
+
+- license_key: zlib
+  label: Approved License
+  compliance_alert: ''
