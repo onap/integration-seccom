@@ -1,9 +1,12 @@
 # Expected failure list for non-SSL endpoints
 
-# waivers requested already since Honolulu
-# SO-3237 SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
+# waivers requested
+# SO-3237 The fix is decided to be introduction of ingress controller in oom and is in progress.
 # so 30277
+# so 30477
 # so-etsi-sol003-adapter 30406
+# so-admin-cockpit 30424
+# so-admin-cockpit 30224
 
 # CDS - being worked, but missed cutoff for Istanbul
 # cds-blueprints-processor-http 30449
