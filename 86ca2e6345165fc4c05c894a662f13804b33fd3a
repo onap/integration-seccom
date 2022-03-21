@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4490fcbb_c4f53f92",
+        "filename": "waivers/nonssl_endpoints/nonssl_xfail.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 943
+      },
+      "writtenOn": "2022-03-21T12:02:53Z",
+      "side": 1,
+      "message": "Seshu: will this port be protected by the ingress controller? Will this be in place for Jakarta?",
+      "range": {
+        "startLine": 4,
+        "startChar": 2,
+        "endLine": 4,
+        "endChar": 96
+      },
+      "revId": "86ca2e6345165fc4c05c894a662f13804b33fd3a",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    }
+  ]
+}
