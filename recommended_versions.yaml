@@ -27,7 +27,7 @@ Alpine:
         - 3.15.0
 Rocky_Linux:
     recommended_versions:
-        - 8.4
+        - 8.5
 OpenSSL:
     recommended_versions:
         - 1.1.1
