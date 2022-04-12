@@ -5,6 +5,13 @@
 so 30277
 so-etsi-sol003-adapter 30406
 
+# CDS team working on either eliminating node port or moving to https. 
+# Not ready for Jakarta
+cds-blueprints-processor-http 30449
+
+# Needed for OpenDaylight NETCONF Call Home feature
+sdnc-callhome 30266
+
 # Upstream components
 awx-web 30478
 message-router-kafka 3049*
