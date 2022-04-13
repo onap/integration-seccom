@@ -14,6 +14,13 @@ so-admin-cockpit 30224
 # SDNC - https://jira.onap.org/browse/SDNC-1628
 # sdnc-callhome 30266
 
+# CDS team working on either eliminating node port or moving to https. 
+# Not ready for Jakarta
+cds-blueprints-processor-http 30449
+
+# Needed for OpenDaylight NETCONF Call Home feature
+sdnc-callhome 30266
+
 # Upstream components
 # awx-web 30478
 # message-router-kafka 30490
