@@ -1,0 +1,9 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Verified+1: Pawel Pawlak <p.pawlak@f5.com>
+Code-Review+2: Amy Zwarico <az9121@att.com>
+Code-Review+2: Pawel Pawlak <p.pawlak@f5.com>
+Submitted-by: Pawel Pawlak <p.pawlak@f5.com>
+Submitted-at: Wed, 13 Apr 2022 06:59:55 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/seccom/+/128494
+Project: integration/seccom
+Branch: refs/heads/master
