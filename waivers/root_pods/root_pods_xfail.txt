@@ -15,4 +15,4 @@
 # multicloud-k8s-etcd # etcd
 
 # Testing components
-# robot # use for test cases + refactoring planned in Istanbul INT-1716
+robot # use for test cases + refactoring planned in Kohn INT-1716
