@@ -14,3 +14,6 @@ network-name-gen # used for use cases
 # config pod
 # portal-db-config # config pod
 vnfsdk-init-postgres
+
+# strimzi
+strimzi # plan to add limits in Kohn release
