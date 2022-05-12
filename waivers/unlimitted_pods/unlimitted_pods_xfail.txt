@@ -13,4 +13,11 @@
 
 # config pod
 # portal-db-config # config pod
+<<<<<<< HEAD   (687008 Merge "Waivers requested for SDNC non-ssl endpoints")
 # vnfsdk-init-postgres
+=======
+vnfsdk-init-postgres
+
+# strimzi
+strimzi # plan to add limits in Kohn release
+>>>>>>> CHANGE (ff2adc [STRIMZI] Add waivers for strimzi)
