@@ -16,3 +16,6 @@
 
 # Testing components
 robot # use for test cases + refactoring planned in Kohn INT-1716
+
+kafka # needs to run as root to access nfs storage
+zookeeper # needs to run as root to access nfs storage
