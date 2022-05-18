@@ -17,3 +17,4 @@ vnfsdk-init-postgres
 
 # strimzi
 strimzi # plan to add limits in Kohn release
+dmaap-strimzi-bridge
