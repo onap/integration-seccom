@@ -15,4 +15,11 @@
 # multicloud-k8s-etcd # etcd
 
 # Testing components
+<<<<<<< HEAD   (687008 Merge "Waivers requested for SDNC non-ssl endpoints")
 # robot # use for test cases + refactoring planned in Istanbul INT-1716
+=======
+robot # use for test cases + refactoring planned in Kohn INT-1716
+
+strimzi-kafka # needs to run as root to access nfs storage
+strimzi-zookeeper # needs to run as root to access nfs storage
+>>>>>>> CHANGE (915079 [SECCOM] Fix strimzi waivers)
