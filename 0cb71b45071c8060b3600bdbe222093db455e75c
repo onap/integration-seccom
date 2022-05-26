@@ -1,0 +1,8 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Verified+1: Pawel Pawlak <p.pawlak@f5.com>
+Code-Review+2: Pawel Pawlak <p.pawlak@f5.com>
+Submitted-by: Lukasz Rajewski <lukasz.rajewski@t-mobile.pl>
+Submitted-at: Thu, 26 May 2022 08:08:11 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/seccom/+/129374
+Project: integration/seccom
+Branch: refs/heads/jakarta
