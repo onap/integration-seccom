@@ -19,3 +19,5 @@ robot # use for test cases + refactoring planned in Kohn INT-1716
 
 strimzi-kafka # needs to run as root to access nfs storage
 strimzi-zookeeper # needs to run as root to access nfs storage
+
+dcae-snmptrap-collector # needs access to the UDP port as root user

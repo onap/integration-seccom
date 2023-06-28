@@ -1,2 +1,4 @@
 # Expected failure list for certificates associated to nodeports
 666 # foo example nodeport
+
+30470 # nodeport for UDP port of DCAE SNMP collector not exposed via Ingress
