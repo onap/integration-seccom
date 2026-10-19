@@ -1,0 +1,9 @@
+Verified+1: Kevin Sandi <ksandi@contractor.linuxfoundation.org>
+Code-Review+2: Kevin Sandi <ksandi@contractor.linuxfoundation.org>
+Verified+1: ONAP Required GHA <releng+onap.required.gha@linuxfoundation.org>
+Verified+1: ONAP Bypass GHA <releng+onap.bypass.gha@linuxfoundation.org>
+Submitted-by: Kevin Sandi <ksandi@contractor.linuxfoundation.org>
+Submitted-at: Mon, 19 Oct 2026 16:59:51 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/seccom/+/148425
+Project: integration/seccom
+Branch: refs/heads/master
